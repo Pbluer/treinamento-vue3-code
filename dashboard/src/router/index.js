@@ -12,7 +12,7 @@ const routes = [
   },
   {
     path: '/feedbbacks',
-    name: 'Feedbbacks',
+    name: 'Feedbacks',
     component: Feedbbacks,
     meta: {
       hasAuth: true
